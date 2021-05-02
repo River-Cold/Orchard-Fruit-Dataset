@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pear</folder>
+	<filename>Pear_135.jpg</filename>
+	<path>D:\PycharmProjects\VOC2012\JPEGImages\Pear\Pear_135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>991</width>
+		<height>646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>212</ymin>
+			<xmax>557</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

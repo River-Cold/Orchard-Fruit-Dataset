@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Orange</folder>
+	<filename>Orange_81.jpg</filename>
+	<path>D:\PycharmProjects\VOC2012\JPEGImages\Orange\Orange_81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>99</ymin>
+			<xmax>541</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

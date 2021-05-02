@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Apple_43.jpg</filename>
+	<path>D:\PycharmProjects\VOC2012\JPEGImages\Apple_43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>2372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1050</xmin>
+			<ymin>774</ymin>
+			<xmax>1784</xmax>
+			<ymax>1535</ymax>
+		</bndbox>
+	</object>
+</annotation>
